@@ -21,7 +21,7 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 
 
 Credits:
-
+```
 	Demo Images:
 		Unsplash (unsplash.com)
 
@@ -32,3 +32,9 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+```
+
+## Pendências
+
+- [ ] Inserir projeto Fazenda Boqueirão
+- [ ] Inserir projeto validador CPF
