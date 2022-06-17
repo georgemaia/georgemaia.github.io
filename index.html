@@ -1,19 +1,14 @@
 <!DOCTYPE HTML>
-<!--
-	Read Only by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+<html lang="en">
 	<head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-58555-18"></script>
 		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
 
-		gtag('config', 'UA-58555-18');
+			gtag('config', 'UA-58555-18');
 		</script>
 
 		<title>George Maia</title>
@@ -21,6 +16,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
 		<link rel="stylesheet" href="assets/css/main.css" />
+		
+		<!-- Bootstrap core CSS -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+        crossorigin="anonymous">
+    	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
 	</head>
 	<body class="is-preload">
 
@@ -37,6 +37,7 @@
 						<li><a href="#coding-activity">Coding Activity</a></li></li>
 						<li><a href="#work-experience">Work Experience</a></li>
 						<li><a href="#education">Education</a></li>
+						<li><a href="#certificates">Certificates</a></li>
 						<li><a href="#contact">Contact Me</a></li>
 					</ul>
 				</nav>
@@ -62,7 +63,7 @@
 								<div class="image main" data-position="center">
 									<img src="images/banner.jpg" alt="" />
 								</div>
-								<div class="container">
+								<div class="container-fluid">
 									<header class="major">
 										<h2>Projects</h2>
 										<p>Check out some projects where I have applied my effort.</p>
@@ -124,7 +125,7 @@
 
 						<!-- coding-activity -->
 						<section id="coding-activity">
-							<div class="container">
+							<div class="container-fluid">
 								<header class="major">
 									<h2>Coding Activity</h2>
 								</header>
@@ -149,7 +150,7 @@
 
 						<!-- work-experience -->
 							<section id="work-experience">
-								<div class="container">
+								<div class="container-fluid">
 									<header class="major">
 										<h2>Work Experience</h2>
 									</header>
@@ -192,7 +193,7 @@
 
 						<!-- education -->
 							<section id="education">
-								<div class="container">
+								<div class="container-fluid">
 									<header class="major">
 										<h2>Education</h2>
 									</header>
@@ -232,22 +233,67 @@
 								</div>
 							</section>
 
+						<!-- Certificates -->
+							<section id="certificates">
+								<div class="container-fluid">
+									<header class="major">
+										<h2>Certificates</h2>
+									</header>
+									<div class="features">
+										<article>
+											<div id="table-container"></div>
+										</article>
+										
+									</div>
+								</div>
+							</section>
+
+							<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+							<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+							<script src="assets/js/jquery.csv.min.js"></script>
+							<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+							<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+							<script src="assets/js/csv_to_html_table.js"></script>
+							
+							<script>
+								function format_link(link) {
+									if (link)
+										return "<a href='https://raw.githubusercontent.com/georgemaia/certificados/main/files/" + link + "' target='_blank'><img src='https://img.shields.io/badge/PDF-EC1C24?style=for-the-badge&logo=AdobeAcrobatReader&logoColor=white'></a>";
+									else return "";
+								}
+
+								CsvToHtmlTable.init({
+									csv_path: "https://raw.githubusercontent.com/georgemaia/certificados/main/certificados.csv",
+									element: "table-container",
+									allow_download: false,
+									csv_options: {
+										separator: ",",
+										delimiter: '"'
+									},
+									datatables_options: {
+										paging: false
+									},
+									custom_formatting: [
+										[4, format_link]
+									]
+								});
+							</script>
+
 						<!-- contact -->
 							<section id="contact">
-								<div class="container">
+								<div class="container-fluid">
+									<header class="major">
 										<h2>Contact Me</h2>
+									</header>
 									<p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeaSDVs_Prn_lmKhuRvlxrY-sAnDAbTKUuzAFc7z0Eu-NbDuA/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe></p>
 									
 								</div>
 							</section>
-
-						
-
 					</div>
 
 				<!-- Footer -->
 					<section id="footer">
-						<div class="container">
+						<div class="container-fluid">
 							<ul class="copyright">
 								<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 							</ul>
@@ -257,7 +303,7 @@
 			</div>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
+			<!script src="assets/js/jquery.min.js"></!script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
