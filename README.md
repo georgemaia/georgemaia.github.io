@@ -37,4 +37,4 @@ Credits:
 ## Pendências
 
 - [ ] Inserir projeto Fazenda Boqueirão
-- [ ] Inserir projeto validador CPF
+- [x] Inserir projeto validador CPF
