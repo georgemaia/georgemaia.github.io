@@ -299,6 +299,8 @@
 							<script src="assets/js/jquery.csv.min.js"></script>
 							<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 							<script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+							<script src="https://cdn.datatables.net/colreorder/1.5.2/js/dataTables.colReorder.min.js"></script>
+							<script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
 							<script src="assets/js/csv_to_html_table.js"></script>
 							
 							<script>
@@ -317,9 +319,19 @@
 										delimiter: '"'
 									},
 									datatables_options: {
-										paging: true,
-                						order: [ 4, 'desc' ]
-									},
+									paging: true,
+									responsive: true,
+									colReorder: true,
+									order: [ 4, 'desc' ],
+									columnDefs: [
+										{ responsivePriority: 10001, targets: 0 },
+										{ responsivePriority: 1, targets: 4 },
+										{ responsivePriority: 10001, targets: 0 },
+										{ responsivePriority: 10001, targets: 0 },
+										{ responsivePriority: 1, targets: 4 },
+										{ responsivePriority: 1, targets: 4 }
+									]
+								},
 									custom_formatting: [
 										[4, format_link]
 									]
