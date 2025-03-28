@@ -18,10 +18,18 @@
 	<link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
 	<link rel="stylesheet" href="assets/css/main.css" />
 
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
 	<!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
 		integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+
+	<!-- Word Cloud -->
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wordcloud2.js/1.1.0/wordcloud2.min.js"></script>
 </head>
 
 <body class="is-preload">
@@ -359,10 +367,40 @@
 					</header>
 					<div class="row">
 						<div class="col-md-6 p-4">
-							<img src="images/horas-certificadas-ano.jpg" alt="certified hours per year" class="img-fluid mx-auto d-block">
+							<!-- grafico -->
+							<canvas id="chart" style="height: 315px; width: 100%"></canvas>
 						</div>
 						<div class="col-md-6 p-4">
-							<img src="images/keywords.jpg" alt="keywords" class="img-fluid mx-auto d-block" />
+							<!-- word cloud -->
+							<canvas id="nuvem" style="height: 315px; width: 100%"></canvas>
+							<script>
+								fetch('https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/certificados.csv')
+								.then(response => response.text())
+								.then(csv => {
+									const results = Papa.parse(csv, { header: true });
+									const palavras = {};
+
+									results.data.forEach(row => {
+										if (row.Keywords) {
+											const keywords = row.Keywords.split(', ');
+											keywords.forEach(keyword => {
+												palavras[keyword] = (palavras[keyword] || 0) + 1;
+											});
+										}
+									});
+
+									const listaPalavras = Object.entries(palavras).map(([text, value]) => [text, value * 1]);
+
+									WordCloud(document.getElementById('nuvem'), {
+										list: listaPalavras,
+										minSize: 8, // Ajuste o tamanho mínimo da fonte
+										gridSize: 2, // Ajuste a densidade
+										weightFactor: 6, // Ajuste o fator de peso
+										fontFamily: 'Arial', // Caso queira mudar a fonte
+										color: 'random-dark' // caso queira mudar a cor
+									});
+								});
+							</script>
 						</div>
 					</div>
 					<div class="features">
@@ -451,7 +489,6 @@
 	</div>
 
 	<!-- Scripts -->
-	<!script src="assets/js/jquery.min.js"></!script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
 	<script src="assets/js/browser.min.js"></script>
@@ -459,20 +496,31 @@
 	<script src="assets/js/util.js"></script>
 	<script src="assets/js/main.js"></script>
 	<script type="application/ld+json">
-				{
-				  "@context": "https://schema.org/",
-				  "@type": "Person",
-				  "name": "George Maia",
-				  "url": "https://georgemaia.github.io/",
-				  "image": "https://georgemaia.github.io/images/avatar.png",
-				  "sameAs": [
-					"http://instagram.com/georgemaia",
-					"http://linkedin.com/in/georgemaia",
-					"http://github.com/georgemaia",
-					"https://georgemaia.github.io/"
-				  ]
-				}
-			</script>
+		{
+			"@context": "https://schema.org/",
+			"@type": "Person",
+			"name": "George Maia",
+			"url": "https://georgemaia.github.io/",
+			"image": "https://georgemaia.github.io/images/avatar.png",
+			"sameAs": [
+			"http://instagram.com/georgemaia",
+			"http://linkedin.com/in/georgemaia",
+			"http://github.com/georgemaia",
+			"https://georgemaia.github.io/"
+			]
+		}
+	</script>
+	<script src="assets/js/chart.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/jquery.csv.min.js"></script>
+    <script src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://cdn.datatables.net/colreorder/1.5.2/js/dataTables.colReorder.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.2.3/js/dataTables.responsive.min.js"></script>
+    <script src="assets/js/csv_to_html_table.js"></script>
+    <script src="assets/js/certificates.js"></script>
+	<script src="assets/js/chart.js"></script>
 </body>
 
 </html>
