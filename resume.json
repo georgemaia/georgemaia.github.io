@@ -135,14 +135,6 @@
       "name": "Open Source"
     }
   ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
   "projects": [
     {
       "name": "Project",
@@ -167,6 +159,14 @@
     {
       "language": "Spanish",
       "fluency": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
     }
   ]
 }
