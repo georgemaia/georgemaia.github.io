@@ -1,0 +1,172 @@
+{
+  // Necessário atualizar o Gist
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "George Maia",
+    "label": "Web Developer",
+    "image": "https://avatars0.githubusercontent.com/u/8619309?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "I am an information technology professional with a Master's in Public Administration from the Universidade Federal do Rio Grande do Norte. More than just seeking a new position, I am looking for a significant challenge that will leverage my career and allow me to contribute and expand upon my knowledge.",
+    "url": "https://georgemaia.github.io/",
+    "email": "georgemaia@gmail.com",
+    "location": {
+      "city": "Natal",
+      "region": "Rio Grande do Norte",
+      "countryCode": "BR"
+    },
+    "profiles": [
+      {
+        "username": "georgemaia",
+        "url": "http://linkedin.com/in/georgemaia",
+        "network": "Linkedin"
+      },
+      {
+        "url": "http://github.com/georgemaia",
+        "username": "georgemaia",
+        "network": "Github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2021-09-30",
+      "startDate": "2021-06-01",
+      "area": "Full Stack Development",
+      "studyType": "Computer Programming",
+      "institution": "Gama Academy"
+    },
+    {
+      "endDate": "2018-04-30",
+      "startDate": "2016-03-01",
+      "area": "Public Administration",
+      "studyType": "Master's Degree",
+      "institution": "Universidade Federal do Rio Grande do Norte"
+    },
+    {
+      "url": "https://www.al.rn.leg.br/escola_da_assembleia",
+      "endDate": "2016-01-30",
+      "startDate": "2014-03-01",
+      "area": "Public Administration",
+      "studyType": "Postgraduate Specialization",
+      "institution": "Escola da Assembleia Legislativa do Rio Grande do Norte"
+    },
+    {
+      "url": "https://unp.br/",
+      "endDate": "2013-12-20",
+      "startDate": "2012-02-06",
+      "area": "Public Administration",
+      "studyType": "Degree",
+      "institution": "Universidade Potiguar"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML",
+        " CSS / BEM / Styled Components",
+        "Javascript "
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node",
+        "PHP"
+      ],
+      "level": "Senior",
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "Postgres",
+        "MySQL",
+        "SQL Server",
+        "Oracle"
+      ],
+      "level": "Senior",
+      "name": "Database"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Tokenized is a Bitcoin wallet for issuing, managing and trading digital tokens. I built out the front end which was packaged as an electron app. It was a difficult frontend to build because we store the users keys locally and used them to sign transactions and contracts.",
+      "url": "https://tokenized.com/",
+      "name": "Cabugi",
+      "location": "Melbourne",
+      "position": "Senior Javascript Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2020-01-01",
+      "pinned": true,
+      "highlights": [
+        "React",
+        "Redux",
+        "SCSS",
+        "Product"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Music / Jamming"
+    },
+    {
+      "name": "Reading / Writing"
+    },
+    {
+      "name": "Open Source"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": ""
+    }
+  ]
+}
