@@ -154,6 +154,23 @@
         "Virtualization",
         "Excel"
       ]
+    },
+    {
+      "summary": "Leading the user support team and development projects at the School of the Assembly, I was responsible for modernizing internal processes and systems. I managed the deployment of the open-source ticketing tool GLPI to optimize support, developed and implemented the institution's intranet, and created a system for instructor curriculum registration and search. Additionally, I spearheaded the launch of the school's scientific articles journal, strengthening its academic output and institutional visibility.",
+      "url": "https://www.al.rn.leg.br/",
+      "name": "Legislative Assembly of Rio Grande do Norte",
+      "location": "Natal",
+      "position": "IT Manager | IT Analyst",
+      "startDate": "2003-03-01",
+      "endDate": "2019-04-30",
+      "highlights": [
+        "GLPI",
+        "Virtualization",
+        "Windows Server",
+        "Active Directory",
+        "PHP",
+        "SQL Server"
+      ]
     }
   ],
   "volunteer": [
