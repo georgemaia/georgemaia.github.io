@@ -190,12 +190,26 @@
       "url": "https://www.linkedin.com/company/arag%C3%A3o-publicidade/",
       "name": "Aragão Publicidade",
       "location": "Natal",
-      "position": "Front-End Web Developer ",
+      "position": "Front-End Web Developer",
       "startDate": "2004-05-01",
       "endDate": "2006-12-30",
       "highlights": [
         "Adobe Flash",
         "HTML"
+      ]
+    },
+    {
+      "summary": "As a manager at the first internet provider in the state of Rio Grande do Norte, I led the development team in delivering pioneering digital services. My responsibilities included overseeing the creation of dynamic web pages for clients using ASP and SQL Server, producing engaging animations in Adobe Flash, and performing routine updates to maintain our clients' online presence. A key part of my role also involved managing the content updates for the news portals of the regional Globo affiliate, ensuring timely and accurate information for a wide audience.",
+      "name": "Grupo Cabugi de Comunicações",
+      "location": "Natal",
+      "position": "IT Project Manager | Web Developer",
+      "startDate": "1996-05-01",
+      "endDate": "2003-02-28",
+      "highlights": [
+        "ASP",
+        "HTML",
+        "SQL Server",
+        "Adobe Flash"
       ]
     }
   ],
