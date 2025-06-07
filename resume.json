@@ -139,8 +139,7 @@
         "Milvus",
         "Redmine"
       ]
-    }
-    ,
+    },
     {
       "summary": "Playing a strategic role at the Natal City Council, I advised on the development of the institution's new portal and application, aiming to modernize communication and access to information. I was responsible for implementing and developing a certificate generation system with a verification tool for the Escola do Legislativo Wilma de Farias, optimizing the issuance and security of documents. Additionally, I deployed a Service Desk (GLPI) to enhance internal technical support and managed legacy inventories using Excel spreadsheets.",
       "url": "https://www.cmnat.rn.gov.br/",
@@ -170,6 +169,20 @@
         "Active Directory",
         "PHP",
         "SQL Server"
+      ]
+    },
+    {
+      "summary": "As an Instructor for professional development courses at the Instituto Legislativo, I was dedicated to enhancing the skills of our professionals. In this role, I developed a comprehensive registration system to manage the personal and professional information of individuals involved with the organization, streamlining data management and improving administrative efficiency. Furthermore, I led the implementation of a system for managing and publishing scientific articles in the legislative field, utilizing the Open Journal System (OJS) to promote scholarly research and knowledge sharing.",
+      "url": "https://www.al.rn.leg.br/escola_da_assembleia",
+      "name": "Legislative Assembly of Rio Grande do Norte",
+      "location": "Natal",
+      "position": "Instructor",
+      "startDate": "2012-09-01",
+      "endDate": "2014-06-30",
+      "highlights": [
+        "Microsoft Office",
+        "Open Journal System",
+        "Digital inclusion"
       ]
     }
   ],
