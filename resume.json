@@ -140,6 +140,21 @@
         "Redmine"
       ]
     }
+    ,
+    {
+      "summary": "Playing a strategic role at the Natal City Council, I advised on the development of the institution's new portal and application, aiming to modernize communication and access to information. I was responsible for implementing and developing a certificate generation system with a verification tool for the Escola do Legislativo Wilma de Farias, optimizing the issuance and security of documents. Additionally, I deployed a Service Desk (GLPI) to enhance internal technical support and managed legacy inventories using Excel spreadsheets.",
+      "url": "https://www.cmnat.rn.gov.br/",
+      "name": "Natal City Council",
+      "location": "Natal",
+      "position": "Accounts and Audit Assistant",
+      "startDate": "2019-08-01",
+      "endDate": "2020-12-30",
+      "highlights": [
+        "GLPI",
+        "Virtualization",
+        "Excel"
+      ]
+    }
   ],
   "volunteer": [
     {
