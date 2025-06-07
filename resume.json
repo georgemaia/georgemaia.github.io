@@ -25,6 +25,16 @@
         "url": "http://github.com/georgemaia",
         "username": "georgemaia",
         "network": "Github"
+      },
+      {
+        "url": "http://t.me/Georgemaia",
+        "username": "Georgemaia",
+        "network": "Telegram"
+      },
+      {
+        "url": "http://instagram.com/georgemaia",
+        "username": "georgemaia",
+        "network": "Instagram"
       }
     ]
   },
@@ -118,7 +128,8 @@
         "SQL",
         "ERP",
         "Report Design",
-        "Milvus"
+        "Milvus",
+        "Redmine"
       ]
     }
   ],
