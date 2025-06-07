@@ -73,8 +73,16 @@
   "skills": [
     {
       "keywords": [
+        "Mendix",
+        "OutSystems"
+      ],
+      "level": "Full Professional",
+      "name": "Lowcode"
+    },
+    {
+      "keywords": [
         "HTML",
-        " CSS / BEM / Styled Components",
+        "CSS / BEM / Styled Components",
         "Javascript"
       ],
       "level": "Senior",
