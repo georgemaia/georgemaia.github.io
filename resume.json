@@ -271,64 +271,70 @@
   ],
   "certificates": [
     {
-      "name": "\"Marketplace para produtores rurais\"",
+      "name": "Marketplace para produtores rurais",
       "date": "2025-06-04",
       "issuer": "SENAR",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/202250604-marketplace-para-produtores-rurais.pdf"
     },
     {
-      "name": "\"Sensoriamento remoto básico e mapeamento com drones\"",
+      "name": "Sensoriamento remoto básico e mapeamento com drones",
       "date": "2025-06-03",
       "issuer": "SENAR",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250603-sensoriamento-remoto-basico-e-mapeamento-com-drones.pdf"
     },
     {
-      "name": "\"Six Sigma White Belt\"",
+      "name": "Six Sigma White Belt",
       "date": "2025-05-27",
       "issuer": "Council for Six Sigma Certification",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250527-Council-six-sigma-white-belt.pdf"
     },
     {
-      "name": "\"Lean Six Sigma White Belt\"",
+      "name": "Lean Six Sigma White Belt",
       "date": "2025-05-27",
       "issuer": "Educate 360",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250527-lean-six-sigma-white-belt.pdf"
     },
     {
-      "name": "\"Jornada Tech Desenvolve\"",
+      "name": "Jornada Tech Desenvolve",
       "date": "2025-05-19",
       "issuer": "Koru",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/koru-20250519.pdf"
     },
     {
-      "name": "\"Lean Seis Sigma Yellow Belt\"",
+      "name": "Lean Seis Sigma Yellow Belt",
       "date": "2025-05-10",
       "issuer": "FM2S",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250510-Lean-Seis-Sigma-Yellow-Belt.pdf"
     },
     {
-      "name": "\"Lean Seis Sigma White Belt\"",
+      "name": "Lean Seis Sigma White Belt",
       "date": "2025-05-09",
       "issuer": "FM2S",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250509-Lean-Seis-Sigma-White-Belt.pdf"
     },
     {
-      "name": "\"A Ciência e a estratégia das vendas\"",
+      "name": "A Ciência e a estratégia das vendas",
       "date": "2025-05-05",
       "issuer": "Escola Conquer",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250505_A_Ciencia_e_a_Estrategia_das_Vendas.pdf"
     },
     {
-      "name": "\"Oficina de Assessoria de Comunicação para Projetos Culturais\"",
+      "name": "Oficina de Assessoria de Comunicação para Projetos Culturais",
       "date": "2025-04-29",
-      "issuer": "\"Comitê de Cultura do RN\"",
+      "issuer": "Comitê de Cultura do RN",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250429-Oficina-de-assessoria-de-comunicacao-para-projetos-culturais.pdf"
     },
     {
-      "name": "\"Atos Gen AI Week\"",
+      "name": "Atos Gen AI Week",
       "date": "2025-04-15",
       "issuer": "Atos Corporate University",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250415-Atos-Gen-AI-Week.pdf"
+    },
+    {
+      "name": "LGPD: Data Subject Rights",
+      "date": "2025-04-16",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-LGPD-data-subject-rights.pdf"
     }
   ]
 }
