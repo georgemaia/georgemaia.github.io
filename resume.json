@@ -245,14 +245,54 @@
   ],
   "projects": [
     {
-      "name": "Project",
+      "name": "Certificates",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Description...",
-      "highlights": [
-        "Won award at AIHacks 2016"
-      ],
-      "url": "https://project.com/"
+      "description": "Certificates management using JavaScript on Github Pages with PDF download and keyword search on datatables.",
+      "url": "https://github.com/georgemaia/certificados"
+    },
+    {
+      "name": "CPF Validator",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "CPF validation using JavaScript.",
+      "url": "https://github.com/georgemaia/validadorCPF"
+    },
+    {
+      "name": "Wiki.js",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Implemented Wiki Server running on Node.js and written in JavaScript with Wiki.js for Hospital Rio Grande."
+    },
+    {
+      "name": "Redmine",
+      "startDate": "2020-11-01",
+      "endDate": "2021-02-01",
+      "description": "Web-based project manager and bug tracking tool with Redmine at Hospital Rio Grande."
+    },
+    {
+      "name": "Intranet",
+      "startDate": "2019-10-01",
+      "endDate": "2020-12-01",
+      "description": "Intranet for sharing information, collaboration tools, plenary usage agenda and other internal services for the Natal City Council."
+    },
+    {
+      "name": "GLPI",
+      "startDate": "2019-10-01",
+      "endDate": "2020-12-01",
+      "description": "IT Asset Management, problem tracking and service desk using GLPI."
+    },
+    {
+      "name": "Caderno de Estudos Legislativos",
+      "startDate": "2016-01-01",
+      "endDate": "2016-04-01",
+      "description": "Management and publication system for scientific articles in the legislative area of ​​the Legislative School of the Legislative Assembly of Rio Grande do Norte using the Open Journal System."
+    },
+    {
+      "name": "Banco de Talentos",
+      "startDate": "2017-03-01",
+      "endDate": "2017-06-01",
+      "description": "System for recording personal and professional information of teachers and collaborators involved in the Legislative School of the Legislative Assembly of Rio Grande do Norte."
     }
   ],
   "languages": [
