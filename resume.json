@@ -311,6 +311,12 @@
   ],
   "certificates": [
     {
+      "name": "Observação Meteorológica 2025",
+      "date": "2025-06-30",
+      "issuer": "MAPA",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250630-Observacao_Meteorologica-2025.pdf"
+    },
+    {
       "name": "Marketplace para produtores rurais",
       "date": "2025-06-04",
       "issuer": "SENAR",
@@ -375,6 +381,1146 @@
       "date": "2025-04-16",
       "issuer": "Atos Corporate University",
       "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-LGPD-data-subject-rights.pdf"
+    },
+    {
+      "name": "LGPD: National Data Protection Authority - ANPD",
+      "date": "2025-04-16",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-LGPD-National-Data_Protection-Authority-ANPD.pdf"
+    },
+    {
+      "name": "LGPD: The Ten Principles",
+      "date": "2025-04-16",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-LGPD-The-Ten-Principles.pdf"
+    },
+    {
+      "name": "LGPD: Necessary Adjustments",
+      "date": "2025-04-16",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-LGPD-Necessary-Adjustments.pdf"
+    },
+    {
+      "name": "LGPD: Penalties and Sanctions",
+      "date": "2025-04-15",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250415-LGPD-penalties-sanctions.pdf"
+    },
+    {
+      "name": "LGPD: The Organizations´s Responsibilities",
+      "date": "2025-04-15",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250415-LGPD-organizations-responsibilities.pdf"
+    },
+    {
+      "name": "LGPD: Introduction to Data Protection",
+      "date": "2025-04-15",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250416-Introduction-to-data-protection.pdf"
+    },
+    {
+      "name": "LGPD: Brazil´s General Data Protection Law",
+      "date": "2025-04-15",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250415-LGPD-Brazil-General_data_protection_law.pdf"
+    },
+    {
+      "name": "SAP para Iniciantes",
+      "date": "2025-04-05",
+      "issuer": "Ka Solution",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250405_sap_para_iniciantes.pdf"
+    },
+    {
+      "name": "Mini curso SQL",
+      "date": "2025-03-28",
+      "issuer": "Xperiun",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250328_minicurso_SQL.pdf"
+    },
+    {
+      "name": "Mini curso de Power BI",
+      "date": "2025-03-28",
+      "issuer": "Xperiun",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250328_minicurso_power_BI.pdf"
+    },
+    {
+      "name": "Mendix Rapid Developer Certification",
+      "date": "2025-03-21",
+      "issuer": "Mendix",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250321_mendix_rapid_certification.pdf"
+    },
+    {
+      "name": "SEO e Marketing de Conteúdo",
+      "date": "2025-02-11",
+      "issuer": "Santander Open Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250211_seo_marketing_de_conteudo.pdf"
+    },
+    {
+      "name": "Laravel - Criando aplicações dinâmicas com Livewire",
+      "date": "2025-02-06",
+      "issuer": "Treinaweb",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250206_Laravel_Criando_aplicacoes_dinamicas_com_Livewire.pdf"
+    },
+    {
+      "name": "Laravel - Construindo aplicações com FilamentPHP",
+      "date": "2025-02-04",
+      "issuer": "Treinaweb",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250204_Laravel_filament.pdf"
+    },
+    {
+      "name": "Desafio da Gestão de Tráfego",
+      "date": "2025-02-22",
+      "issuer": "Comunidade Sobral de Tráfego",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250202_desafio_gestao_de_trafico.pdf"
+    },
+    {
+      "name": "Foco",
+      "date": "2025-01-27",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20250127-foco.pdf"
+    },
+    {
+      "name": "Programação orientada a objetos com JavaScript (Node.js)",
+      "date": "2024-12-15",
+      "issuer": "Ada",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241215_nodejs_orientacao_a_objetos.pdf"
+    },
+    {
+      "name": "Lógica de Programação com JavaScript (Node.js)",
+      "date": "2024-12-15",
+      "issuer": "Ada",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241215_nodejs_logica_programaca.pdf"
+    },
+    {
+      "name": "Introdução ao Node.JS com Express",
+      "date": "2024-12-15",
+      "issuer": "Ada",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241215_nodejs_com_express.pdf"
+    },
+    {
+      "name": "Git e Versionamento",
+      "date": "2024-12-15",
+      "issuer": "Ada",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241215_git.pdf"
+    },
+    {
+      "name": "AWS Partner: Generative AI on AWS Essentials (Business)",
+      "date": "2024-10-05",
+      "issuer": "AWS",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241005_AWS_Generative_AI.pdf"
+    },
+    {
+      "name": "Inteligência Artificial para Líderes",
+      "date": "2024-10-21",
+      "issuer": "Saint Paul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20241021_inteligencia_aritifical_para_lideres.pdf"
+    },
+    {
+      "name": "PHP para Back-end",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_php_para_back_end.pdf"
+    },
+    {
+      "name": "ETL: extração transformação e carga de dados",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_etl_extracao_transformacao_e_carga_de_dados.pdf"
+    },
+    {
+      "name": "Métricas e tomada de decisão com dados",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_metricas_e_tomada_de_decisao_com_dados.pdf"
+    },
+    {
+      "name": "Estrutura de Dados e linguagem SQL",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_estrutura_de_dados_e_linguagem_sql.pdf"
+    },
+    {
+      "name": "Manipulação de dados com SQL",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_manipulacao_de_dados_com_sql.pdf"
+    },
+    {
+      "name": "Programação Front-end",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_programacao_front-end.pdf"
+    },
+    {
+      "name": "Implementação Ágil de IA Generativa em Produtos Digitais",
+      "date": "2024-09-26",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240926_implementacao_agil_de_IA_generativa_em_produtos_digitais.pdf"
+    },
+    {
+      "name": "Trilha fluêncIA",
+      "date": "2024-08-26",
+      "issuer": "ProWay",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/202240826_trilha-fluencia.pdf"
+    },
+    {
+      "name": "AIMS Awareness Training",
+      "date": "2024-08-26",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240826_AIMS_Awareness_Training.pdf"
+    },
+    {
+      "name": "Time Management",
+      "date": "2024-08-21",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240821_time_management.pdf"
+    },
+    {
+      "name": "Autonomy",
+      "date": "2024-08-01",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240801_autonomy.pdf"
+    },
+    {
+      "name": "Google: Inteligência Artificial e Produtividade",
+      "date": "2024-07-16",
+      "issuer": "Santander Open Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240716_google_inteligencia_artifgicial.pdf"
+    },
+    {
+      "name": "Inteligência Artificial: eleve sua produtividade e acelere sua carreira",
+      "date": "2024-06-24",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240624_Conquer_Inteligencia_Artificial.pdf"
+    },
+    {
+      "name": "Acelera Pleno - Java",
+      "date": "2024-06-14",
+      "issuer": "UniCesumar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240614_acelera-pleno.pdf"
+    },
+    {
+      "name": "Cyber Security Foundation",
+      "date": "2021-04-30",
+      "issuer": "CertiProf",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210430_Cyber_Security_Foundation.pdf"
+    },
+    {
+      "name": "Kanban Foundation – KIKF",
+      "date": "2020-09-16",
+      "issuer": "Kanban Institute",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200916_Kanban.pdf"
+    },
+    {
+      "name": "Scrum Foundation Professional – SFPC",
+      "date": "2020-06-13",
+      "issuer": "CertiProf",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200614_Scrum_Foundation_Professional_Certificate.pdf"
+    },
+    {
+      "name": "Human Firewall",
+      "date": "2024-05-21",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240521_Human_Firewall.pdf"
+    },
+    {
+      "name": "Structured data for beginners",
+      "date": "2022-12-16",
+      "issuer": "Yoast",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221216_Structured_data_for_beginners.pdf"
+    },
+    {
+      "name": "Object Oriented PHP",
+      "date": "2022-11-20",
+      "issuer": "Pluralsight",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221120-Object-Oriented-PHP.pdf"
+    },
+    {
+      "name": "Consuming a REST API with Guzzle and PHP",
+      "date": "2022-11-20",
+      "issuer": "Pluralsight",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221120-Consuming-a-REST-API-with_Guzzle-and-PHP.pdf"
+    },
+    {
+      "name": "Unit Testing with PHPUnit 9",
+      "date": "2022-11-19",
+      "issuer": "Pluralsight",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221119-Unit-Testing-with_PHPUnit-9.pdf"
+    },
+    {
+      "name": "AWS Foundations: Getting Started with the AWS Cloud Essentials",
+      "date": "2021-08-01",
+      "issuer": "AWS",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210801_AWS_Foundation-Getting_Started_with_the_AWS_Cloud_Essentials.pdf"
+    },
+    {
+      "name": "Apresentação oral Inovação na gestão pública: O caso do portal de transparência da Assembleia Legislativa do Rio Grande do Norte",
+      "date": "2017-08-31",
+      "issuer": "Escola do  Governo",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20170831-congesprn.pdf"
+    },
+    {
+      "name": "Treinamento Nacional do Imposto sobre a Propriedade Territorial Rural",
+      "date": "2023-08-14",
+      "issuer": "Receita Federal",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230814_treinamento-nacional-do-ITR.pdf"
+    },
+    {
+      "name": "TailwindCSS 3 Fundamentals",
+      "date": "2022-11-18",
+      "issuer": "Pluralsight",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221118-TailwindCSS3-Fundamentals.pdf"
+    },
+    {
+      "name": "Gerenciamento de dispositivos móveis na área da saúde",
+      "date": "2021-07-29",
+      "issuer": "MDM",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210729_Gerenciamento_de_dispositivos_moveis_na_area_da_saude.pdf"
+    },
+    {
+      "name": "Lei Geral de Proteção de Dados - LGPD",
+      "date": "2021-05-10",
+      "issuer": "Fundação Bradesco",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210510_Lei_Geral_de_Protecao_de_Dados_LGPD.pdf"
+    },
+    {
+      "name": "Estratégi.CO",
+      "date": "2021-02-03",
+      "issuer": "PUCPR",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210203_PUCPR_Digital-Estrategi.CO.pdf"
+    },
+    {
+      "name": "Reset",
+      "date": "2021-02-03",
+      "issuer": "PUCPR",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210203_PUCPR_Digital-Reset.pdf"
+    },
+    {
+      "name": "Certificação PMP – Processo e pré-requisito",
+      "date": "2015-02-22",
+      "issuer": "IETEC",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20150222-pmp--processos-e-pre-requisitos.pdf"
+    },
+    {
+      "name": "Copywriting",
+      "date": "2022-06-28",
+      "issuer": "Rock Content",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220628_copywriting.pdf"
+    },
+    {
+      "name": "Espanhol introdutório para Intercambistas",
+      "date": "2015-11-04",
+      "issuer": "Associação Brasileira de Educação à Distância",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20151104-espanhol-para-intercambistas.pdf"
+    },
+    {
+      "name": "Uso e Tendências da Computação em Nuvem",
+      "date": "2014-10-01",
+      "issuer": "Escola de Governo",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20141001-uso-e-tendencias-da-computacao-em-nuvem.pdf"
+    },
+    {
+      "name": "Fundamentos de Power BI",
+      "date": "2023-01-26",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230126-fundamentos-power-bi.pdf"
+    },
+    {
+      "name": "AWS Discovery Day - Cloud Practitioner Essentials",
+      "date": "2022-10-10",
+      "issuer": "KA Solution",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221010_AWS-Discovery-day-Cloud-Practitioner-Essentials.pdf"
+    },
+    {
+      "name": "PNL para líderes",
+      "date": "2022-07-22",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220722_PNL_para_líderes.pdf"
+    },
+    {
+      "name": "SEO Wordpress: Otimize o ranqueamento do seu site",
+      "date": "2022-01-20",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220120_Wordpress_SEO.pdf"
+    },
+    {
+      "name": "Certificação em Liderança Capacidade de Aprender e Resiliência",
+      "date": "2021-08-26",
+      "issuer": "PUCRS",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210826_Lideranca_capacidade_de_aprender_e_resiliencia.pdf"
+    },
+    {
+      "name": "Introdução ao Active Directory",
+      "date": "2013-04-28",
+      "issuer": "Microsoft Virtual Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20130428_mva_introducao_active_directory.pdf"
+    },
+    {
+      "name": "O que é teste unitário?",
+      "date": "2019-10-13",
+      "issuer": "DevMedia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20191013-Devmedia-O-que-e-teste-unitário.pdf"
+    },
+    {
+      "name": "Python para Open Data",
+      "date": "2019-03-23",
+      "issuer": "Open Knowledge Brasil",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190323-Python-para-Open-Data.pdf"
+    },
+    {
+      "name": "Oficina em Análise Comportamental",
+      "date": "2018-07-03",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20180703-Oficina-em-Analise-Comportamental.pdf"
+    },
+    {
+      "name": "LFS101x2: Introduction to Linux",
+      "date": "2016-12-19",
+      "issuer": "Linux Foundation",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20161219-LFS101x2-Introduction-to-Linux.pdf"
+    },
+    {
+      "name": "Ética Profissional",
+      "date": "2016-09-28",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160928-Etica-Profissional.pdf"
+    },
+    {
+      "name": "Semana do Programador 7X RafaOutSystems",
+      "date": "2023-01-10",
+      "issuer": "RafaOutSystems",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230110_SP7X_Outsystems.pdf"
+    },
+    {
+      "name": "MEI – Microempreendedor Individual",
+      "date": "2014-07-22",
+      "issuer": "SEBRAE",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20140722-sebrae_MEI_EAD.pdf"
+    },
+    {
+      "name": "PHP Composer: Dependências Autoload e Publicação",
+      "date": "2023-03-18",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230318_php-composer.pdf"
+    },
+    {
+      "name": "MS Roadshow Natal – Computação em Nuvem",
+      "date": "2015-06-09",
+      "issuer": "Microsoft",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20150609-MS-Roadshow-Natal.pdf"
+    },
+    {
+      "name": "Microsoft Azure Data Fundamentals (DP-900)",
+      "date": "2024-04-06",
+      "issuer": "Ka Solution",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20240406_ka_solution_azure-data-fundamentals.pdf"
+    },
+    {
+      "name": "Aprenda a Programar em C# com orientação a objetos",
+      "date": "2023-07-11",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230711_Aprenda_a_programar_em_Csharp_com_orientacao_a_objetos.pdf"
+    },
+    {
+      "name": "Microsoft Azure Fundamentals AZ-900",
+      "date": "2023-07-08",
+      "issuer": "KA Solution",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230708_azure_fundamentals_az900.pdf"
+    },
+    {
+      "name": "Como ter um Perfil Campeão no LinkedIn",
+      "date": "2023-01-24",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230124-perfil-campeao-linkedin.pdf"
+    },
+    {
+      "name": "Formação de Líderes Kaizen",
+      "date": "2023-01-18",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230118-Formacao-de-Lideres-Kaizen.pdf"
+    },
+    {
+      "name": "MASP - Metodologia de Análise e Solução de Problemas",
+      "date": "2022-12-28",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221228-masp.pdf"
+    },
+    {
+      "name": "Google Search Console: Configurações e relatórios",
+      "date": "2022-12-26",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221226-google-search-console-configuracoes-e-relatorios.pdf"
+    },
+    {
+      "name": "Google Cloud Digital Leader (CDL)",
+      "date": "2022-02-23",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220223_google_cloud_digital_leader.pdf"
+    },
+    {
+      "name": "Doctrine ORM: Acesse o banco com mapeamento objeto-relacional",
+      "date": "2022-02-07",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220207_Doctrine_ORM.pdf"
+    },
+    {
+      "name": "PHP e PDO: Trabalhando com banco de dados",
+      "date": "2022-01-31",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220131_PHP_e_PDO_trabalhando_com_banco_de_dados.pdf"
+    },
+    {
+      "name": "E-mail Marketing: da segmentação ao AB",
+      "date": "2022-01-21",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220121_E-mail_Marketing_da_Segmentacao_ao_AB.pdf"
+    },
+    {
+      "name": "Plugin no Wordpress: Widget shortcode e configurações",
+      "date": "2022-01-19",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220120_Wordpress_plugin.pdf"
+    },
+    {
+      "name": "Digital Marketing",
+      "date": "2021-10-19",
+      "issuer": "Tera",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20211019_digital_marketing.pdf"
+    },
+    {
+      "name": "Segurança Eletrônica e Certificação Digital",
+      "date": "2012-06-03",
+      "issuer": "Instituto Legislativo Potiguar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20120903_certificado-segurancaeletronica.pdf"
+    },
+    {
+      "name": "Workshop Full Stack – FusionInventory + GLPI",
+      "date": "2020-07-23",
+      "issuer": "Service Desk Brasil",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200723_Workshop_Full_Stack_GLPI_FusionInventory.pdf"
+    },
+    {
+      "name": "Produtividade no Serviço Público",
+      "date": "2016-10-05",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20161005-Produtividade-no-Servico-Publico.pdf"
+    },
+    {
+      "name": "Noções de Direito Administrativo",
+      "date": "2016-08-30",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160830-Nocoes-de-Direito-Administrativo.pdf"
+    },
+    {
+      "name": "Gestão e Fiscalizacao de Contratos Administrativos",
+      "date": "2016-08-24",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160824-Gestao-e-Fiscalizacao-de-Contratos-Administrativos.pdf"
+    },
+    {
+      "name": "Negociação Gerencial",
+      "date": "2016-08-23",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160823-Negociacao-Gerencial.pdf"
+    },
+    {
+      "name": "Anúncio em Redes Sociais",
+      "date": "2016-08-13",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160813-Anuncio-em-Redes-Sociais.pdf"
+    },
+    {
+      "name": "Administração do Tempo",
+      "date": "2015-09-29",
+      "issuer": "Instituto do Legislativo Potiguar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20150928-Administracao-do-tempo.pdf"
+    },
+    {
+      "name": "Atualização em Direito Eleitoral",
+      "date": "2012-09-08",
+      "issuer": "Instituto do Legislativo Potiguar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20120908-atualizacao-direito-eleitoral.pdf"
+    },
+    {
+      "name": "Fundamentos de Computação em Nuvem AWS",
+      "date": "2023-10-16",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20231016-Fundamentos_de_Computacao_em_Nuvem_AWS.pdf"
+    },
+    {
+      "name": "Criatividade e Resolução de Problemas",
+      "date": "2022-06-20",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220620_criatividade_e_resolucao_de_problemas.pdf"
+    },
+    {
+      "name": "Assédio e outros temas relacionados a discriminação e preconceito no ambiente de trabalho",
+      "date": "2023-12-20",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20231220_Assedio_e_outros_temas_relacionados_a_discriminacao_e_preconceito_no_ambiente_de_trabalho.pdf"
+    },
+    {
+      "name": "Apresentações que conquistam",
+      "date": "2023-11-06",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20231106_escola_conquer-apresentacoes.pdf"
+    },
+    {
+      "name": "Administração do Oracle Database: Segurança e otimização do banco",
+      "date": "2023-05-31",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230531_Administracao_do_Oracle_Database-seguranca_e_otimizacao_do_banco.pdf"
+    },
+    {
+      "name": "Administração do Oracle Database: Criação e Gerenciamento do Banco",
+      "date": "2023-05-26",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230526_administracao-do-oracle-database-criacao-e-gerenciamento-do-banco.pdf"
+    },
+    {
+      "name": "Comunicação e Oratória",
+      "date": "2023-05-22",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230522_Conquer_comunicacao_oratoria.pdf"
+    },
+    {
+      "name": "Produtividade Inteligente",
+      "date": "2023-02-14",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230214_produtividade_inteligente.pdf"
+    },
+    {
+      "name": "Linux Essentials",
+      "date": "2022-12-13",
+      "issuer": "Linuxtips",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221213_linux-essentials.pdf"
+    },
+    {
+      "name": "Formação em Liderança",
+      "date": "2022-11-07",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221107_formacao_em_lideranca.pdf"
+    },
+    {
+      "name": "Análise de Dados e Power BI",
+      "date": "2022-07-21",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220721_analise_de_dados_e_power_bi.pdf"
+    },
+    {
+      "name": "SQL a linguagem dos bancos de dados",
+      "date": "2022-07-19",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220719_sql_escola_conquer.pdf"
+    },
+    {
+      "name": "Semana OmniStack 11",
+      "date": "2020-03-29",
+      "issuer": "Rocketseat",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200329-Semana-Omnistack-11.pdf"
+    },
+    {
+      "name": "DevFest Nordeste 20219 Natal",
+      "date": "2019-10-19",
+      "issuer": "GDG Natal",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20191019-Devfest.pdf"
+    },
+    {
+      "name": "Startup Day",
+      "date": "2019-05-18",
+      "issuer": "SEBRAE",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190518-Startup-Day.pdf"
+    },
+    {
+      "name": "Criatividade e Novas Tecnologias no Serviço Público",
+      "date": "2019-04-17",
+      "issuer": "ENAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190417-Criatividade-e-Novas-Tecnologias-no-Servico-Publico.pdf"
+    },
+    {
+      "name": "O que é Ciência Aberta",
+      "date": "2019-03-20",
+      "issuer": "Fundação Oswaldo Cruz",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190320-o-que-e-ciencia-aberta.pdf"
+    },
+    {
+      "name": "Declaração de Docência – Word para Projetos Acadêmicos",
+      "date": "2017-11-07",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20171107-declaracao-de-docencia-word-para-projetos-academicos.pdf"
+    },
+    {
+      "name": "Declaração de Docência – Word para Projetos Acadêmicos",
+      "date": "2017-10-31",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20171031-declaracao-de-docencia-word-para-projetos-academicos.pdf"
+    },
+    {
+      "name": "Declaração de Docência – Uso de Tablet e Smartphone",
+      "date": "2016-06-08",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160608-Declaraca-de-Docencia-Uso-de-Tablet-e-Smartphone.pdf"
+    },
+    {
+      "name": "Declaração de Docência – Uso de Tablet e Smartphone",
+      "date": "2016-04-04",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160404-Declaraca-de-Docencia-Uso-de-Tablet-e-Smartphone.pdf"
+    },
+    {
+      "name": "Desempenho do Oracle Database: Análise do Ambiente",
+      "date": "2023-06-12",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230621_desempenho-do-oracle-database-analise-do-ambiente.pdf"
+    },
+    {
+      "name": "TreinaWeb Multi-stack #2",
+      "date": "2021-10-17",
+      "issuer": "Treinaweb",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20211020_Multi_Stack_2_edicao.pdf"
+    },
+    {
+      "name": "Kaizen - Processo de Melhoria Contínua",
+      "date": "2021-10-04",
+      "issuer": "FM2S",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20211004_Kaizen-Processo_de_Melhoria_Continua.pdf"
+    },
+    {
+      "name": "Java para internet usando Banco de Dados",
+      "date": "1998-11-22",
+      "issuer": "UFPE",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/19981122_certificado-jornadajava-ufpe.pdf"
+    },
+    {
+      "name": "Fundamentos de Governança de TI",
+      "date": "2019-03-28",
+      "issuer": "Fundação Bradesco",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190328-Fundamentos-de-Governanca-de-TI.pdf"
+    },
+    {
+      "name": "Oficinal em Elaboração de Projeto",
+      "date": "2017-10-18",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20171018-Oficina-em-Elaboracao-de-Projetos.pdf"
+    },
+    {
+      "name": "Oficina de Elaboração de Projetos",
+      "date": "2017-08-23",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20170823-Oficina-em-Elaboracao-de-Projetos.pdf"
+    },
+    {
+      "name": "Elaboração de Projetos",
+      "date": "2016-08-03",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160803-Elaboracao-de-Projetos.pdf"
+    },
+    {
+      "name": "Desempenho do Oracle Database: Otimização de Consultas",
+      "date": "2023-05-24",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230621_desempenho-do-oracle-database-otimizacao-de-consultas.pdf"
+    },
+    {
+      "name": "Administração do Oracle Database: Segurança e Otimização do Banco",
+      "date": "2023-05-31",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230531_administracao-do-oracle-database-seguranca-e-otimizacao-do-banco.pdf"
+    },
+    {
+      "name": "Tecnologia da Informação e Comunicação",
+      "date": "2016-07-01",
+      "issuer": "SENAI",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160701-tecnologia-da-informacao-e-comunicacao.pdf"
+    },
+    {
+      "name": "Lógica de Programação",
+      "date": "2016-07-01",
+      "issuer": "SENAI",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160701-Logica-de-programacao.pdf"
+    },
+    {
+      "name": "Negociação e Influência",
+      "date": "2022-07-25",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220725_negociacao_e_influencia.pdf"
+    },
+    {
+      "name": "Ajax Data Request & Responses",
+      "date": "2022-05-18",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220513_ajax_data_request_and_responses.pdf"
+    },
+    {
+      "name": "Inteligência Emocional 2.0",
+      "date": "2022-04-25",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220425_Inteligencia_Emocional_2.pdf"
+    },
+    {
+      "name": "Empresas mudam então prepare-se",
+      "date": "2022-03-18",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220318_Empresas_mudam_entao_prepare-se.pdf"
+    },
+    {
+      "name": "Redefinindo-se após uma mudança empresarial",
+      "date": "2022-03-18",
+      "issuer": "Atos Corporate University",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220318_Redefininho-se_apos_uma_mudanca_empresarial.pdf"
+    },
+    {
+      "name": "Comunicação e Oratória",
+      "date": "2021-08-31",
+      "issuer": "Escola Conquer",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210831__COMUNICACAO_E_ORATORIA.pdf"
+    },
+    {
+      "name": "Git Workflow",
+      "date": "2020-04-05",
+      "issuer": "UpInside",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200405-Git-Workflow.pdf"
+    },
+    {
+      "name": "PHP e MySQL: criando sua primeira aplicação",
+      "date": "2023-09-22",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230922_criando_sua_primeira_aplicacao_web.pdf"
+    },
+    {
+      "name": "PHP e MySQL: criando uma webapp",
+      "date": "2023-08-15",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230815_php_mysql_criando_uma_webapp.pdf"
+    },
+    {
+      "name": "Oratória de Alta Performance",
+      "date": "2023-08-13",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230813-oratoria-de-alta-performance.pdf"
+    },
+    {
+      "name": "Formação Shell Scripting",
+      "date": "2022-12-08",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221208_shell-scripting.pdf"
+    },
+    {
+      "name": "DoWhile",
+      "date": "2021-12-02",
+      "issuer": "Rocketseat",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20211202_Rockseat_DoWhile.pdf"
+    },
+    {
+      "name": "Freehand 8",
+      "date": "1999-07-02",
+      "issuer": "SENAI",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/19990702_certificado-freehand8-cti.pdf"
+    },
+    {
+      "name": "Open Data Natal 2020",
+      "date": "2020-03-06",
+      "issuer": "UFRN",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200306-Open-Data-Day-2020.pdf"
+    },
+    {
+      "name": "D-Olho na Qualidade: 5Ss para os pequenos negócios",
+      "date": "2016-04-04",
+      "issuer": "SEBRAE",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20160404-de-olho-na-qualidade.pdf"
+    },
+    {
+      "name": "Protocolo",
+      "date": "2015-09-14",
+      "issuer": "Instituto do Legislativo Potiguar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20150914-protocolo.pdf"
+    },
+    {
+      "name": "Elaboração de Projetos",
+      "date": "2014-10-09",
+      "issuer": "Escola de Governo",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20141009-Elaboracao-de-projetos.pdf"
+    },
+    {
+      "name": "Preparatório Agile Scrum Foundation EXIN",
+      "date": "2023-01-26",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230214_preparatorio_agile-scrum-foundation-exin.pdf"
+    },
+    {
+      "name": " Uncomplicating Docker",
+      "date": "2022-06-12",
+      "issuer": "Linuxtips",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220612_Uncomplicating_Docker.pdf"
+    },
+    {
+      "name": "Produção de Vídeos usando OBS Studio e Kdenlive",
+      "date": "2021-07-05",
+      "issuer": "IFRS",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210705_Producao_de_Vídeos_usando_OBS_Studio_e_Kdenlive.pdf"
+    },
+    {
+      "name": "Declaração de Docência",
+      "date": "2020-07-07",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200707-declaracao-de-docencia-excel.pdf"
+    },
+    {
+      "name": "Introdução à Interoperabilidade",
+      "date": "2019-09-25",
+      "issuer": "ENAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190925-Introducao-a-Interoperabilidade.pdf"
+    },
+    {
+      "name": "Gestão de Riscos",
+      "date": "2019-05-08",
+      "issuer": "ENAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190508-ENAP-Gestao-de-Riscos.pdf"
+    },
+    {
+      "name": "IV Encontro Brasileiro de Administração Pública",
+      "date": "2017-05-24",
+      "issuer": "Sociedade Brasileira de Administração Pública",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20170524-EBAP.pdf"
+    },
+    {
+      "name": "Elaboração de Plano de Dados Abertos",
+      "date": "2016-11-16",
+      "issuer": "ENAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20161116-Elaboracao-de-Plano-de-Dados-Abertos.pdf"
+    },
+    {
+      "name": "Elaboração de Dados Abertos",
+      "date": "2014-04-14",
+      "issuer": "ENAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20140414-ElaboracaodePlanodeDadosAbertos.pdf"
+    },
+    {
+      "name": "Segurança da Informação",
+      "date": "2013-04-01",
+      "issuer": "Fundação Bradesco",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20130401_fundacao_bradesco-seguranca_da_informacao.pdf"
+    },
+    {
+      "name": "Power BI Aplicado a Negócios",
+      "date": "2023-06-27",
+      "issuer": "Grupo Voitto",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230627_powerbi_aplicado_a_negocios.pdf"
+    },
+    {
+      "name": "Redação Oficial e Legislativa",
+      "date": "2015-12-07",
+      "issuer": "Instituto do Legislativo Potiguar",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20151207-redacao-oficial-e-legislativa.pdf"
+    },
+    {
+      "name": "Construção de Indicadores de desempenho monitoramento e avaliação de resultados na Administração Pública",
+      "date": "2015-10-21",
+      "issuer": "ACONSULT",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20151019-construcao-de-indicadores-de-desempenho-monitoramento-e-avaliacao-de-resultados-na-administracao-publica.pdf"
+    },
+    {
+      "name": "Gestão do Tempo",
+      "date": "2023-08-14",
+      "issuer": "Descomplica",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230814_gestao-de-tempo.pdf"
+    },
+    {
+      "name": " Python for Beginners",
+      "date": "2022-06-01",
+      "issuer": "OpenSAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220601_python1_ConfirmationOfParticipation.pdf"
+    },
+    {
+      "name": " Python for Beginners Record of Achievement",
+      "date": "2022-06-01",
+      "issuer": "OpenSAP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220601_python1_RecordOfAchievement.pdf"
+    },
+    {
+      "name": "Auditoria em Tecnologia da Informação",
+      "date": "2020-06-12",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200612_Auditoria-em_Tecnologia_da_Informacao.pdf"
+    },
+    {
+      "name": "Publicação de dados em formato aberto",
+      "date": "2016-11-23",
+      "issuer": "Escola de Políticas Públicas",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20161123-Publicacao-de-Dados-em-Formato-Aberto.pdf"
+    },
+    {
+      "name": "CorelDraw 8",
+      "date": "1999-06-02",
+      "issuer": "SENAI",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/19990602_certificado-coreldraw-cti.pdf"
+    },
+    {
+      "name": "Hiring Coders",
+      "date": "2022-07-20",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220711_hiring_coders_vtex_aws.pdf"
+    },
+    {
+      "name": "Princípios básicos de marketing digital",
+      "date": "2022-12-26",
+      "issuer": "Google",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20221225-Principios-basicos-marketing-digital.pdf"
+    },
+    {
+      "name": "Inkscape",
+      "date": "2021-07-05",
+      "issuer": "IFRS",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210705_Inkscape.pdf"
+    },
+    {
+      "name": "Gestão de Projeto Educaional e Corporativo",
+      "date": "2020-06-26",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200626-Gestao-de-Projeto-Educacional-e-Corporativo.pdf"
+    },
+    {
+      "name": "Gestão por Processos",
+      "date": "2020-06-22",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200622-Gestao-por-processos.pdf"
+    },
+    {
+      "name": "Perícia Forense Computacional",
+      "date": "2020-06-16",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200616_Pericia_Forense_Computacional.pdf"
+    },
+    {
+      "name": "Perfil Campeão: Linkedin",
+      "date": "2020-04-20",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200420_perfil-campeao-linkedin.pdf"
+    },
+    {
+      "name": "Currículo Lattes: da elaboração à atualização do seu perfil acadêmico",
+      "date": "2020-04-20",
+      "issuer": "Cruzeiro do Sul",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200420_curriculo-lattes-da-elaboracao-a-atualizacao-do-seu-perfil-academico.pdf"
+    },
+    {
+      "name": "Governo Aberto",
+      "date": "2019-02-20",
+      "issuer": "Fundação Bradesco",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20190208-Governo-aberto.pdf"
+    },
+    {
+      "name": "Dados Abertos Conectados",
+      "date": "2017-02-11",
+      "issuer": "Escola de Políticas Públicas",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20170211-Dados-Abertos-Conectados.pdf"
+    },
+    {
+      "name": "Gestão Estratégica de TI – ITIL",
+      "date": "2013-04-01",
+      "issuer": "Fundação Bradesco",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20130325_gestao_estrategica_de_TI-ITIL.pdf"
+    },
+    {
+      "name": "Formação Administração e Performance com Oracle Database",
+      "date": "2023-06-12",
+      "issuer": "Alura",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20230612_administracao-e-performance-com-oracle-database.pdf"
+    },
+    {
+      "name": "Oficina de Elaboração de Projetos",
+      "date": "2018-10-23",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20181124-Curso-Elaboracao-de-Projetos.pdf"
+    },
+    {
+      "name": "SQL Server",
+      "date": "2002-11-19",
+      "issuer": "ITECI",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20020903_certificado-sqlserver-iteci.pdf"
+    },
+    {
+      "name": "Desenvolvedor Back-end PHP",
+      "date": "2020-04-28",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200428-Desenvolvedor-Back-end-PHP.pdf"
+    },
+    {
+      "name": "Bootcamp SPTech Desenvolvimento Back-end",
+      "date": "2021-05-31",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210531_Bootcamp_SPTech_Desenvolvimento_Back-end.pdf"
+    },
+    {
+      "name": "Desenvolvedor Front-end ReactJS",
+      "date": "2020-06-25",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200625-Desenvolvedor-Frond-end-ReactJS.pdf"
+    },
+    {
+      "name": "Bootcamp everis New Talents – Java",
+      "date": "2021-09-24",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210924_Bootcamp_Everis_New_Talents-Java.pdf"
+    },
+    {
+      "name": "Desenvolvimento em ecommerce VTEX IO",
+      "date": "2021-08-22",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210903_Hiring_Coders.pdf"
+    },
+    {
+      "name": "QE&A Automation Academy",
+      "date": "2022-08-27",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220827_qea_automation_academy.pdf"
+    },
+    {
+      "name": "Hiring Coders",
+      "date": "2022-06-15",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20220623_hiring_coders.pdf"
+    },
+    {
+      "name": "Desenvolvimento Full Stack",
+      "date": "2021-07-25",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210810_Bootcamp_Full_Stack_Hiring_Coders.pdf"
+    },
+    {
+      "name": "Pagemaker / CorelDraw",
+      "date": "1995-05-20",
+      "issuer": "Data Control",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/19950520_certificado-pagemaker-coreldraw-datacontrol.pdf"
+    },
+    {
+      "name": "Hiring Coders",
+      "date": "2020-09-21",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20200921_Hiring_Coders.pdf"
+    },
+    {
+      "name": "Santander Bootcamp | Fullstack Developer",
+      "date": "2021-09-14",
+      "issuer": "Digital Innovation One",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20210914_Santander_Bootcamp_Fullstack_Developer.pdf"
+    },
+    {
+      "name": "Acelera Atos",
+      "date": "2021-12-20",
+      "issuer": "Gama Academy",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20211220_Acelera_Atos.pdf"
+    },
+    {
+      "name": "Especialização em Gestão Pública",
+      "date": "2018-06-14",
+      "issuer": "Escola da Assembleia",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20180618_Especializacao_em_Gestao_Publica.pdf"
+    },
+    {
+      "name": "Curso superior de tecnologia em gestão pública",
+      "date": "2014-01-29",
+      "issuer": "UnP",
+      "url": "https://raw.githubusercontent.com/georgemaia/certificados-repo/main/files/20140124_UnP.pdf"
     }
   ]
 }
