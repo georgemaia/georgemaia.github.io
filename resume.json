@@ -312,6 +312,32 @@
       "fluency": "Elementary Proficiency"
     }
   ],
+  "awards": [
+    {
+    "title": "MX Cerfified Rapid",
+    "date": "2025-03-21",
+    "awarder": "Mendix",
+    "summary": "Mendix Rapid Developer Certification"
+  },
+  {
+      "title": "Cyber Security Foundation",
+      "date": "2021-04-30",
+      "awarder": "CertiProf",
+      "summary": "Cyber Security Foundation Professional Certificate - CSFPC"
+    },
+  {
+      "title": "Kanban Foundation",
+      "date": "2020-09-16",
+      "awarder": "CertiProf",
+      "summary": "Kanban Foundation – KIKF"
+    },
+  {
+      "title": "Scrum Foundation",
+      "date": "2020-06-13",
+      "awarder": "CertiProf",
+      "summary": "Scrum Foundation Professional – SFPC"
+    }
+],
   "certificates": [
     {
       "name": "Observação Meteorológica 2025",
