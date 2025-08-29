@@ -110,6 +110,7 @@
   ],
   "work": [
     {
+      "summary": "Experienced in project management using Scrum methodology, ensuring efficient team collaboration and delivery of high-quality solutions. Hands-on expertise with GitLab Self-Hosted repositories for version control and CI/CD pipelines. Strong technical background with a stack including PHP, AngularJS, Oracle Database, JavaScript, and Mendix. Worked on impactful projects for major clients such as Telefónica and Sodexo, delivering scalable and innovative business solutions.",
       "url": "https://atos.net/en/",
       "name": "Atos",
       "location": "Londrina",
@@ -124,8 +125,7 @@
         "GitLab",
         "Github",
         "Mendix"
-      ],
-      "summary": "Experienced in project management using Scrum methodology, ensuring efficient team collaboration and delivery of high-quality solutions. Hands-on expertise with GitLab Self-Hosted repositories for version control and CI/CD pipelines. Strong technical background with a stack including PHP, AngularJS, Oracle Database, JavaScript, and Mendix. Worked on impactful projects for major clients such as Telefónica and Sodexo, delivering scalable and innovative business solutions."
+      ]
     },
     {
       "summary": "With solid experience at Hospital Rio Grande, I was responsible for developing management and administrative reports using the Pixeon Smart Health ERP, focusing on system usage statistics and functionalities. My role involved configuring and customizing internal and third-party systems, as well as developing complex reports, queries, data cubes, and data extractions using SQL. Furthermore, I provided direct user support and effectively managed incidents through the Milvus ticketing tool, ensuring process optimization and the integrity of hospital data.",
