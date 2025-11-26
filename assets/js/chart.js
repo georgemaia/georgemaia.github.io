@@ -1,15 +1,15 @@
 var urlConfig = "config.js";
 
-$.getScript(urlConfig, function(){
-    $(document).ready(function() {
+$.getScript(urlConfig, function () {
+    $(document).ready(function () {
         $.ajax({
-        // Ler o conteúdo do CSV e iniciar o processamento
+            // Ler o conteúdo do CSV e iniciar o processamento
 
-        url: FULLURL,
-        dataType: 'text',
-        success: function(data) {
-            parseCSV(data);
-        }
+            url: FULLURL,
+            dataType: 'text',
+            success: function (data) {
+                parseCSV(data);
+            }
         });
     });
 });
@@ -49,7 +49,6 @@ function createChart(data) {
     for (var i = 0; i < data.length; i++) {
         var row = data[i];
         var conclusionDate = new Date(row["Conclusion"]);
-        // var year = new Date(row["Conclusion"]).getFullYear();
 
         if (!isNaN(conclusionDate.getTime())) {
             var year = conclusionDate.getFullYear();
@@ -62,19 +61,29 @@ function createChart(data) {
             }
 
             dataByYear[year].count++;
-            dataByYear[year].hours += parseFloat(row["Workload (h)"]);
+            dataByYear[year].hours += parseFloat(row["Workload (h)"]) || 0;
         }
     }
 
+    // Criar arrays fixas para evitar mismatch de índices
+    var years = Object.keys(dataByYear);
+    var yearDataArray = years.map(function (y) {
+        return dataByYear[y];
+    });
+
     var chartData = {
-        labels: Object.keys(dataByYear),
+        labels: years,
         datasets: [
-        {
-            label: "Total de Horas",
-            data: Object.values(dataByYear).map(function (yearData) {
-            return yearData.hours;
-            }),
-        },
+            {
+                label: "Total de Horas",
+                data: yearDataArray.map(function (yearData) {
+                    return yearData.hours;
+                }),
+                // armazena a contagem diretamente no dataset para uso na tooltip
+                counts: yearDataArray.map(function (yearData) {
+                    return yearData.count;
+                })
+            },
         ],
     };
 
@@ -83,8 +92,22 @@ function createChart(data) {
         type: "bar",
         data: chartData,
         options: {
-            // responsive: true,
-            // height: "300px"
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: function (context) {
+                            var idx = context.dataIndex;
+                            var ds = context.chart.data.datasets[context.datasetIndex];
+                            var hours = ds.data[idx] || 0;
+                            var count = (ds.counts && ds.counts[idx]) ? ds.counts[idx] : 0;
+                            return [
+                                "Horas: " + Number(hours).toFixed(2),
+                                "Certificados: " + count
+                            ];
+                        }
+                    }
+                }
+            }
         },
     });
 }
