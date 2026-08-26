@@ -1,5 +1,3 @@
-# George Maia 
-
-Welcome to my page.
+# George Maia
 
 [![Screenshot](images/screenshot.png)](https://georgemaia.github.io/)
